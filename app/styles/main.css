@@ -1,0 +1,11 @@
+/*~~~~~~~~~~~~   User styles   ~~~~~~~~~~~~~~~~~~*/
+a.test-link {
+    background: linear-gradient(to top, black, white);
+    display: flex;
+}
+
+/*~~~~~~~~~~~~   overwrite bootstrap styles   ~~~~~~~~~~~~~~~~~~*/
+.jumbotron h1 {
+    color: #0054a6;
+}
+
